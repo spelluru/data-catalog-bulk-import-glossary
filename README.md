@@ -1,10 +1,10 @@
 ---
 services: data-catalog
 platforms: dotnet
-author: spelluru
+author: 
 ---
-# Bulk import glossary terms into Azure Data Catalog
+#Bulk import glossary terms
 
-This sample shows you how to import glossary terms from CSV files to Azure Data Catalog glossary.
+This sample shows you how to import glossary terms from CSV files to ADC glossary.
 
 
